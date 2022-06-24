@@ -1,0 +1,23 @@
+{
+  "name": "@nul/core",
+  "version": "0.0.1",
+  "description": "null Css engine",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nulCss",
+    "css",
+    "nul"
+  ],
+  "author": "Ali Khalouf",
+  "license": "MIT",
+  "devDependencies": {
+    "magic-string": "^0.26.2",
+    "unconfig": "^0.3.4"
+  },
+  "dependencies": {
+    "unbuild": "^0.7.4"
+  }
+}
