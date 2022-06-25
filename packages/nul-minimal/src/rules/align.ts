@@ -1,0 +1,1 @@
+// import type {Rule} from '@nulcss/core';

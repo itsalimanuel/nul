@@ -8,5 +8,4 @@
 *.log
 *.vsix
 
-packages/core/node_modules
-packages/nul-minimal/node_modules
+node_modules

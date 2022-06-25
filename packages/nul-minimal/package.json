@@ -1,0 +1,14 @@
+{
+  "name": "nul-minimal",
+  "version": "0.0.1",
+  "description": "Minimal Taken of NulCss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Khalouf",
+  "license": "MIT",
+  "dependencies": {
+    "unbuild": "^0.7.4"
+  }
+}

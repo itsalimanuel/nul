@@ -1,6 +1,6 @@
 {
-  "name": "@nul/core",
-  "version": "0.0.2",
+  "name": "@nulcss/core",
+  "version": "0.1.1",
   "description": "null Css engine",
   "main": ".",
   "scripts": {
